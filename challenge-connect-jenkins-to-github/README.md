@@ -1,1 +1,0 @@
- [![Build Status](http://ec2-51-21-215-253.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=challenge-2-connect-jenkins-to-github)](http://ec2-51-21-215-253.eu-north-1.compute.amazonaws.com/job/challenge-2-connect-jenkins-to-github/) 
